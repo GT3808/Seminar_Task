@@ -1,0 +1,15 @@
+C:\Lesson_Programs\All_Task\Seminar_Task\Task_01\obj\Debug\net6.0\Task_01.csproj.AssemblyReference.cache
+C:\Lesson_Programs\All_Task\Seminar_Task\Task_01\obj\Debug\net6.0\Task_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Lesson_Programs\All_Task\Seminar_Task\Task_01\obj\Debug\net6.0\Task_01.AssemblyInfoInputs.cache
+C:\Lesson_Programs\All_Task\Seminar_Task\Task_01\obj\Debug\net6.0\Task_01.AssemblyInfo.cs
+C:\Lesson_Programs\All_Task\Seminar_Task\Task_01\obj\Debug\net6.0\Task_01.csproj.CoreCompileInputs.cache
+C:\Lesson_Programs\All_Task\Seminar_Task\Task_01\bin\Debug\net6.0\Task_01.exe
+C:\Lesson_Programs\All_Task\Seminar_Task\Task_01\bin\Debug\net6.0\Task_01.deps.json
+C:\Lesson_Programs\All_Task\Seminar_Task\Task_01\bin\Debug\net6.0\Task_01.runtimeconfig.json
+C:\Lesson_Programs\All_Task\Seminar_Task\Task_01\bin\Debug\net6.0\Task_01.dll
+C:\Lesson_Programs\All_Task\Seminar_Task\Task_01\bin\Debug\net6.0\Task_01.pdb
+C:\Lesson_Programs\All_Task\Seminar_Task\Task_01\obj\Debug\net6.0\Task_01.dll
+C:\Lesson_Programs\All_Task\Seminar_Task\Task_01\obj\Debug\net6.0\refint\Task_01.dll
+C:\Lesson_Programs\All_Task\Seminar_Task\Task_01\obj\Debug\net6.0\Task_01.pdb
+C:\Lesson_Programs\All_Task\Seminar_Task\Task_01\obj\Debug\net6.0\Task_01.genruntimeconfig.cache
+C:\Lesson_Programs\All_Task\Seminar_Task\Task_01\obj\Debug\net6.0\ref\Task_01.dll
