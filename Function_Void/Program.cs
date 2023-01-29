@@ -15,6 +15,7 @@ Console.WriteLine (n);
 
 */
 
+/*
 Console.Clear();
 void f (ref int n)
 {
@@ -26,3 +27,14 @@ f (ref n);
 Console.WriteLine(n);
 
 // ref - передача значение по ссылке //
+
+*/
+
+Console.Clear();
+void f(int[] n)
+{
+     n[0] = n[0] + 5;
+}
+int[] n = {1, 2, 3, 4, 5};
+f (n);
+Console.WriteLine(string.Join(" ", n));
