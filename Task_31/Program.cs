@@ -26,7 +26,7 @@ void ReleaseArray(int[] array)
                   summaNegative += element;
       }
       Console.WriteLine($"Sum of positive numbers is: {summaPositive}");
-      Console.WriteLine($"Sum of positive numbers is: {summaNegative}");
+      Console.WriteLine($"Sum of negative numbers is: {summaNegative}");
 }
       
       
