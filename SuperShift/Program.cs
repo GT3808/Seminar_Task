@@ -9,6 +9,7 @@
 
 
 Console.Clear();
+Console.WriteLine("Enter number: ");
 int n = Convert.ToInt32(Console.ReadLine());
 int[] arrayFirst = new int[n];
 int[] arrayResult = new int[n];
